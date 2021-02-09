@@ -1,0 +1,973 @@
+id,st_num,st_name,parcel_id
+1,215,Southside Ave.,1.0
+2,22,Hibernia Rd.,2.0
+3,20,Hibernia Rd.,3.0
+4,16,Hibernia Rd.,4.0
+5,,Hibernia Rd.,5.0
+6,,Gervais St.,6.0
+7,70,McDowell St.,7.0
+8,26,Morgan Ave.,8.0
+9,19,Silver St.,9.0
+10,5,Palmer St.,10.0
+11,508,French Broad Ave.,11.0
+12,493,South French Broad Ave.,12.0
+13,493,South French Broad Ave.,13.0
+14,118,Livingston St.,14.0
+15,Joins 128,Livingston St.,15.0
+16,112,Wallack St.,16.0
+17,242,Asheland Ave.,17.0
+18,244,Asheland Ave.,18.0
+19,248,Asheland Ave.,19.0
+20,140,South Grove St.,20.0
+21,17,Morgan Ave.,21.0
+22,135,Asheland Ave.,22.0
+23,141,Asheland Ave.,22.0
+24,133,Asheland Ave.,23.0
+25,123,Asheland Ave.,24.0
+26,2,Blanton St.,25.0
+27,34,Silver St.,26.0
+28,4,Blanton St.,27.0
+29,10,Blanton St.,28.0
+30,12,Blanton St.,29.0
+31,22,Blanton St.,30.0
+32,20,Blanton St.,31.0
+33,28 1/2,Blanton St.,32.0
+34,32,Blanton St.,33.0
+35,34,Blanton St.,34.0
+36,38,Blanton St.,35.0
+37,Next to 38,Blanton St.,36.0
+38,56,Blanton St.,37.0
+39,58,Blanton St.,38.0
+40,246,South Grove St.,39.0
+41,60,Blanton St.,40.0
+42,62,Blanton St.,41.0
+43,70,Blanton St.,42.0
+44,33,Phifer St.,43.0
+45,74,Blanton St.,44.0
+46,199,Asheland Ave.,45.0
+47,8,Silver St.,46.0
+48,10,Silver St.,47.0
+49,14,Silver St.,48.0
+50,18,Silver St.,49.0
+51,24,Silver St.,50.0
+52,15,Blanton St.,51.0
+53,17,Blanton St.,52.0
+54,Rear of 17,Blanton St.,53.0
+55,29,Blanton St.,54.0
+56,31,Blanton St.,55.0
+57,35,Blanton St.,56.0
+58,39,Blanton St.,57.0
+59,Rear of 39,Blanton St.,58.0
+60,45,Blanton St.,59.0
+61,59,Blanton St.,60.0
+62,253,Asheland Ave.,61.0
+63,249,Asheland Ave.,62.0
+64,245,Asheland Ave.,63.0
+65,237,Asheland Ave.,64.0
+66,229,Asheland Ave.,65.0
+67,223,Asheland Ave.,66.0
+68,217,Asheland Ave.,67.0
+69,211,Asheland Ave.,68.0
+70,207,Asheland Ave.,69.0
+71,310,Asheland Ave.,70.0
+72,314,Asheland Ave.,71.0
+73,318,Asheland Ave.,72.0
+74,67,Tiernan St.,73.0
+75,63,Tiernan St.,74.0
+76,61,Tiernan St.,75.0
+77,53,Tiernan St.,76.0
+78,45,Tiernan St.,77.0
+79,197,Bartlett St.,78.0
+80,195,Bartlett St.,79.0
+81,185,Bartlett St.,80.0
+82,181,Bartlett St.,81.0
+83,179,Bartlett St.,82.0
+84,Rear of 45,Tiernan St.,83.0
+85,25,Tiernan St.,84.0
+86,23,Tiernan St.,85.0
+87,-,Bartlett St.,86.0
+88,125,Bartlett St.,87.0
+89,121,Bartlett St.,88.0
+90,164,Bartlett St.,89.0
+91,190,Bartlett St.,90.0
+92,192,Bartlett St.,91.0
+93,194,Bartlett St.,92.0
+94,198,Bartlett St.,93.0
+95,Across from 76,Ralph St.,94.0
+96,16,John St.,95.0
+97,-,Ralph St.,96.0
+98,S/E,Ralph St.,97.0
+99,39,Ralph St.,98.0
+100,117,Ora St.,99.0
+101,90,Ora St.,100.0
+102,95,Ora St.,101.0
+103,87,Ora St.,102.0
+104,83,Ora St.,103.0
+105,44,John St.,104.0
+106,42,John St.,105.0
+107,36,John St.,106.0
+108,34,John St.,107.0
+109,30,John St.,108.0
+110,Next to 30,John St.,109.0
+111,106,Bartlett St.,110.0
+112,116,Bartlett St.,111.0
+113,150,Bartlett St.,112.0
+114,5,John St.,113.0
+115,173,Bartlett St.,114.0
+116,132,Lyman St. ,115.0
+117,27,Gaston St.,116.0
+118,15,Gaston St.,117.0
+119,11,Gaston St.,118.0
+120,18,Herman Ave.,119.0
+121,25,Beech St.,120.0
+122,Joins 25,Beech St.,121.0
+123,33,Beech St.,122.0
+124,35,Beech St.,123.0
+125,Joins 45,Beech St.,124.0
+126,45,Beech St.,125.0
+127,49,Beech St.,126.0
+128,34,Herman Ave.,127.0
+129,34 1/2,Herman Ave.,128.0
+130,30,Herman Ave.,129.0
+131,26,Herman Ave.,130.0
+132,24,Herman Ave.,131.0
+133,322-328,Southside Ave.,132.0
+134,300-334,Southside Ave.,133.0
+135,426,South French Broad Ave.,134.0
+136,36,South French Broad Ave.,135.0
+137,440,South French Broad Ave.,136.0
+138,442,South French Broad Ave.,137.0
+139,444,South French Broad Ave.,138.0
+140,450,South French Broad Ave.,139.0
+141,452,South French Broad Ave.,140.0
+142,Corner,Beech St. and Livingston St.,141.0
+143,52,Beech St.,142.0
+144,48,Beech St.,143.0
+145,44,Beech St.,144.0
+146,36,Beech St.,145.0
+147,30,Beech St.,146.0
+148,28,Beech St.,147.0
+149,24,Beech St.,148.0
+150,22,Beech St.,149.0
+151,350,Southside Ave.,150.0
+152,Next to 350,Southside Ave.,151.0
+153,362-364,Southside Ave.,152.0
+154,366-372,Southside Ave.,153.0
+155,376,Southside Ave.,154.0
+156,380-382,Southside Ave.,155.0
+157,390,Southside Ave.,156.0
+158,394,Southside Ave.,157.0
+159,396,Southside Ave.,158.0
+160,402,Southside Ave. ,159.0
+161,404-408,Southside Ave.,160.0
+162,410,Southside Ave.,161.0
+163,412,Southside Ave.,162.0
+164,418,Southside Ave.,163.0
+165,49,Louie St.,164.0
+166,47,Louie St.,165.0
+167,37,Louie St.,166.0
+168,33,Louie St.,167.0
+169,27,Louie St.,168.0
+170,5-25 1/2,Louie St.,169.0
+171,13,Louie St.,170.0
+172,11,Louie St.,171.0
+173,9,Louie St.,172.0
+174,Corner,Louie St.,173.0
+175,439-441,S. French Broad,174.0
+176,354,S. French Broad,175.0
+177,Next to 441,S. French Broad,176.0
+178,64,Ralph St.,177.0
+179,12 & 20 ,Elsie Alley,178.0
+180,454,Depot St.,179.0
+181,409,Southside Ave.,180.0
+182,401-407,Southside Ave.,181.0
+183,385,Southside Ave.,182.0
+184,12,Ralph St.,183.0
+185,14 & 16,Ralph St.,184.0
+186,Next to14,Ralph St.,185.0
+187,28,Ralph St.,186.0
+188,Next to 44,Ralph St.,187.0
+189,Joins 28 ,Ralph St.,188.0
+190,44 1/2,Ralph St.,189.0
+191,44,Ralph St.,190.0
+192,46,Ralph St.,191.0
+193,Rear of 46,Ralph St.,192.0
+194,Next to 56,Ralph St.,193.0
+195,56,Ralph St.,194.0
+196,58,Ralph St.,195.0
+197,58 1/2,Ralph St.,196.0
+198,62,Ralph St.,197.0
+199,478,Depot St.,198.0
+200,Adjoinis 643,Depot St.,199.0
+201,Adjoins 427,Depot St.,200.0
+202,419,Depot St.,201.0
+203,418,Braham St.,202.0
+204,114 & 114½,Louie St.,203.0
+205,76,Ora St.,204.0
+206,372,South French Broad Ave.,205.0
+207,388,South French Broad Ave.,206.0
+208,390,South French Broad Ave.,207.0
+209,25,Adams St.,208.0
+210,188,Blanton St.,209.0
+211,240-246,Hilliard Ave.,210.0
+212,250,Hilliard Ave.,211.0
+213,254,Hilliand Ave.,212.0
+214,Rear of 123,South Grove St.,213.0
+215,56,McDuffie St.,214.0
+216,60,McDuffie St.,215.0
+217,64,McDuffie St.,216.0
+218,Rear of 166,South French Broad Ave.,217.0
+219,Corner of,Dewitt St.,218.0
+220,82,McDuffie St.,219.0
+221,Next to 195,South Grove St.,220.0
+222,181,South Grove St.,221.0
+223,187,South Grove St.,222.0
+224,66, McDuffle St.,223.0
+225,80,Ora St.,224.0
+226,136,South Grove St.,225.0
+227,121,South Grove St.,226.0
+228,227,South French Broad Ave.,227.0
+229,-,Dewitt St.,228.0
+230,6,Vernell St. ,229.0
+231,253,South French Broad Ave.,230.0
+232,251,South French Broad Ave.,231.0
+233,373,Southside Ave.,232.0
+234,361,South French Broad Ave.,233.0
+235,69,Blanton St.,234.0
+236,51,Phifer St.,235.0
+237,57,Phifer St.,236.0
+238,59,Phifer St.,237.0
+239,61,Phifer St.,238.0
+240,63,Phifer St.,239.0
+241,275,Asheland Ave.,240.0
+242,265,Asheland Ave.,241.0
+243,Next to 261,Asheland Ave.,242.0
+244,261,Asheland Ave.,243.0
+245,113,Asheland Ave.,244.0
+246,111,Asheland Ave.,245.0
+247,7,Silver St.,246.0
+248,189,Asheland Ave.,247.0
+249,189,Asheland Ave.,248.0
+250,183,Asheland Ave.,249.0
+251,181,Asheland Ave.,250.0
+252,173,Asheland Ave.,251.0
+253,169,Asheland Ave.,252.0
+254,234-238,Hilliard Ave.,253.0
+255,78,South French Broad Ave.,254.0
+256,104,South French Broad Ave.,255.0
+257,114,South French Broad Ave.,256.0
+258,118,South French Broad Ave.,257.0
+259,126,South French Broad Ave.,258.0
+260,6,Dewitt St.,259.0
+261,8,Dewitt St.,260.0
+262,213,Grove St.,261.0
+263,88,McDuffle St.,262.0
+264,203,South Grove St.,263.0
+265,Rear of 193,South Grove St.,264.0
+266,191,South Grove St.,265.0
+267,189,South Grove St.,266.0
+268,502,Depot St.,267.0
+269,82,Livingston St.,268.0
+270,105,Asheland,269.0
+271,99,Asheland Ave.,270.0
+272,NE Corner of,"Southern St. 
+Graham Pl.",271.0
+273,NS Corner of,"Southern St. 
+Graham Pl.",271.0
+274,NS Corner of,Southern St. ,272.0
+275,100,Livingston St.,273.0
+276,104,Livingston St.,274.0
+277,108,Livingston St.,275.0
+278,116,Livingston St.,276.0
+279,NS Corner of,Black St.,277.0
+280,186,Asheland Ave.,278.0
+281,216,Asheland Ave.,279.0
+282,80,Wallack St.,280.0
+283,82,Wallack St.,281.0
+284,226,Asheland Ave.,282.0
+285,232,Asheland Ave.,283.0
+286,236,Asheland Ave.,284.0
+287,238,Asheland Ave.,285.0
+288,240,Asheland Ave.,286.0
+289,110,Wallack St.,287.0
+290,140,Asheland Ave.,288.0
+291,140 & 146 & 146½,Asheland Ave.,289.0
+292,160,Asheland Ave.,290.0
+293,164,Asheland Ave.,291.0
+294,172,Asheland Ave.,292.0
+295,174,Asheland Ave.,293.0
+296,40,Wallack St.,294.0
+297,42,Wallack St.,295.0
+298,180,Asheland Ave.,296.0
+299,180½,Asheland Ave.,297.0
+300,322,Asheland Ave.,298.0
+301,326,Asheland Ave.,299.0
+302,281,Asheland Ave.,300.0
+303,64,Phifer St.,301.0
+304,60,Phifer St.,302.0
+305,81,Blanton St.,303.0
+306,85,Blanton St.,304.0
+307,295 1/2,Asheland Ave.,305.0
+308,297,Asheland Ave.,306.0
+309,299 1/2,Asheland Ave.,307.0
+310,107,Blanton St.,308.0
+311,107,Blanton St.,309.0
+312,131,Bartlett St.,310.0
+313,,Blanton St.,311.0
+314,311,Asheland Ave.,312.0
+315,309,Asheland Ave.,313.0
+316,305,Asheland Ave.,314.0
+317,297 1/2,Asheland Ave.,315.0
+318,299,Asheland Ave.,316.0
+319,296,Asheland Ave.,317.0
+320,295,Asheland Ave.,318.0
+321,293,Asheland Ave.,319.0
+322,32,Phifer St.,320.0
+323,24,Phifer St.,321.0
+324,6,Phifer St.,322.0
+325,,South French Broad Ave.,323.0
+326,45,Bartlett St.,324.0
+327,9,Vernell Ave.,325.0
+328,299,South French Broad Ave.,326.0
+329,95,Bartlett St.,327.0
+330,31,Fagg St.,328.0
+331,29,Fagg St.,329.0
+332,27,Fagg St.,330.0
+333,23,Fagg St.,331.0
+334,19,Fagg St.,332.0
+335,15,Fagg St.,333.0
+336,,Fagg St.,334.0
+337,11,Fagg St.,335.0
+338,86,Tiernan St.,336.0
+339,84,Tiernan St.,337.0
+340,105,Bartlett St.,338.0
+341,115,Bartlett St.,339.0
+342,,Fagg St.,340.0
+343,,Fagg St.,341.0
+344,33,Fagg St.,342.0
+345,24,Murray Hill Rd.,343.0
+346,18,Murray Hill Rd.,344.0
+347,16,Tiernan St.,345.0
+348,83,Tiernan St.,346.0
+349,20,Nelson St.,347.0
+350,22,Nelson St.,348.0
+351,75,Tiernan St.,349.0
+352,71,Tiernan St.,350.0
+353,24,Nelson St.,351.0
+354,177,Bartlett St.,352.0
+355,175,Bartlett St.,353.0
+356,171,Bartlett St.,354.0
+357,Rear of 171,Bartlett St.,355.0
+358,27,Tiernan St.,356.0
+359,169,Bartlett St.,357.0
+360,147,Bartlett St.,358.0
+361,167,Bartlett St.,359.0
+362,53,Beech St.,360.0
+363,55,Beech St.,361.0
+364,12,Owen's Alley,362.0
+365,179,Livingston St.,363.0
+366,11,Orange Alley,364.0
+367,175,Livingston St.,365.0
+368,173,Livingston St.,366.0
+369,5,Owen's Alley,367.0
+370,171,Livingston St.,368.0
+371,163,Livingston St.,369.0
+372,163,Livingston St.,370.0
+373,58,Herman Ave.,371.0
+374,56½,Herman Ave.,372.0
+375,56,Herman Ave.,373.0
+376,52,Herman Ave.,374.0
+377,Adjoins 52,Herman Ave.,375.0
+378,48,Herman Ave.,376.0
+379,42,Herman Ave.,377.0
+380,38½,Herman Ave.,378.0
+381,38,Herman Ave.,379.0
+382,-,Lyman St.,380.0
+383,-,Lyman St.,381.0
+384,103,Lyman St.,382.0
+385,143,Lyman St.,383.0
+386,Next to 131,Lyman St.,384.0
+387,128,Lyman St.,385.0
+388,Next to 128,Lyman St.,386.0
+389,117,Lyman St.,387.0
+390,-,Lyman St.,388.0
+391,136,Lyman St.,389.0
+392,-,Lyman St.,390.0
+393,Rear of 4 ,Lyman St. ,391.0
+394,102,Tiernan St.,392.0
+395,107,Tiernan St.,393.0
+396,109,Tiernan St.,394.0
+397,105,Tiernan St.,395.0
+398,-,Depot St.,396.0
+399,Corner of, Lyman St.,397.0
+400,103,Tiernan St.,398.0
+401,106,Tiernan St.,399.0
+402,Rear of 10,Fagg St. near Lyman St.,400.0
+403,Next to 4,Fagg St.,401.0
+404,70,Fagg St.,402.0
+405,Rear of 70,Fagg St.,403.0
+406,82,Fagg St.,404.0
+407,97,Asheland Ave.,405.0
+408,91,Asheland Ave.,406.0
+409,179,South Grove St.,407.0
+410,175,South Grove St.,408.0
+411,Rear of 175,South Grove St.,409.0
+412,173½,South Grove St.,410.0
+413,173,South Grove St.,411.0
+414,165,South Grove St.,412.0
+415,159,South Grove St.,413.0
+416,153½,South Grove St.,414.0
+417,94,South Grove St.,415.0
+418,104,South Grove St.,416.0
+419,31,Silver St.,417.0
+420,25,Silver St.,418.0
+421,86,Livingston St.,419.0
+422,94,Livingston St.,420.0
+423,85,Asheland Ave.,421.0
+424,88,South French Broad St.,422.0
+425,119,South Grove St.,423.0
+426,115,South Grove St.,424.0
+427,97,South Grove St.,425.0
+428,93,South Grove St.,426.0
+429,89,South Grove St.,427.0
+430,90,Southside Ave.,428.0
+431,-,Southside Ave.,429.0
+432,231,Coxe Ave.,430.0
+433,139,Southside Ave.,431.0
+434,143,Southside Ave.,432.0
+435,224,Hilliard Ave.,433.0
+436,4,Grove Pl.,434.0
+437,117,Asheland Ave.,435.0
+438,80,South French Broad Ave.,436.0
+439,84,South French Broad Ave.,437.0
+440,212,South French Broad Ave.,438.0
+441,149,South Grove St.,439.0
+442,Rear of 137,South Grove St.,440.0
+443,Rear of 99,South Grove St.,441.0
+444,159,South French Broad St.,442.0
+445,33,Eugene St.,443.0
+446,38,Eugene St.,444.0
+447,31,Eugene St.,445.0
+448,20,Eugene St.,446.0
+449,Rear of 8,Fagg St.,447.0
+450,4,Fagg St.,448.0
+451,8,Fagg St.,449.0
+452,10,Fagg St.,450.0
+453,14,Fagg St.,451.0
+454,Adjoins 14,Fagg St.,452.0
+455,24,Fagg St.,453.0
+456,28,Fagg St.,454.0
+457,30,Fagg St.,455.0
+458,Adjoins 30,Fagg St.,456.0
+459,21,Link St.,457.0
+460,22,Link St.,458.0
+461,23,Link St.,459.0
+462,137,Horseshoe Curve,460.0
+463,27,Link St.,461.0
+464,97,Link St.,462.0
+465,34,Horseshoe Curve,463.0
+466,Next to 62,Horseshoe Curve,464.0
+467,62,Horseshoe Curve,465.0
+468,-,Link St.,466.0
+469,37,Tenie St.,467.0
+470,-,Tenie St.,468.0
+471,-,Tenie St.,469.0
+472,-,Tenie St.,470.0
+473,-,Tenie St.,471.0
+474,Adjoins 70,Fagg St.,472.0
+475,34,Louie St.,473.0
+476,41,Louie St.,474.0
+477,492,Depot St.,475.0
+478,412,Depot St.,476.0
+479,414-418,Depot St.,477.0
+480,422,Depot St.,478.0
+481,459,Depot St.,479.0
+482,455,Depot St.,480.0
+483,Corner of,Southside Ave. and Depot St.,481.0
+484,389-399 ,Southside Ave. and Depot St.,482.0
+485,479,Depot St.,483.0
+486,Adjoins and next to 479,Depot St.,484.0
+487,463,Depot St.,485.0
+488,459,Depot St.,486.0
+489,455,Depot St.,487.0
+490,Adjoins 451,Depot St.,488.0
+491,449,Depot St.,489.0
+492,446,Depot St.,490.0
+493,445,Depot St.,491.0
+494,-,Depot St.,492.0
+495,421,Depot St.,493.0
+496,-,Depot St.,494.0
+497,418,Depot St.,495.0
+498,160½,South Grove St.,496.0
+499,3,Grove Pl.,497.0
+500,1,Grove Pl.,498.0
+501,33,Silver St.,499.0
+502,15,Silver St.,500.0
+503,Across from 9,Louie St.,501.0
+504,Across from 13,Louie St.,502.0
+505,494-496,Depot St.,503.0
+506,128,Livingston St.,504.0
+507,130,Livingston St.,505.0
+508,Rear of 104,South Grove St.,506.0
+509,118,South Grove St.,507.0
+510,6,Grove Pl.,508.0
+511,2,Grove Pl.,509.0
+512,4,Grove Pl.,510.0
+513,98,Livingston St.,511.0
+514,Rear of 100,Livingston St.,512.0
+515,103,Black St.,513.0
+516,5,Grove Pl.,514.0
+517,147,South Grove St.,515.0
+518,145,South Grove St.,516.0
+519,137,South Grove St.,517.0
+520,133,South Grove St.,518.0
+521,123,South Grove St.,519.0
+522,198-198½,Hillard Ave.,520.0
+523,,Hillard Ave.,520.0
+524,202-208,"Hillard Ave.
+
+",521.0
+525,90,Asheland Ave.,522.0
+526,94,Asheland Ave.,523.0
+527,96-108,Asheland Ave.,524.0
+528,110-112,Asheland Ave.,525.0
+529,114,Asheland Ave.,526.0
+530,122,Asheland Ave.,527.0
+531,-,Federal St.,528.0
+532,132½,Asheland Ave.,529.0
+533,132,Asheland Ave.,530.0
+534,136,Asheland Ave.,531.0
+535,Adjoins 136,Asheland Ave.,532.0
+536,2,Wallack St.,533.0
+537,5,Wallack St.,534.0
+538,7,Wallack St.,535.0
+539,9,Wallack St.,536.0
+540,11,Wallack St.,537.0
+541,19,Wallack St.,538.0
+542,17,Wallack St.,539.0
+543,23,Wallack St.,540.0
+544,23,Wallack St.,541.0
+545,55,Wallack St.,542.0
+546,57½,Wallack St.,543.0
+547,77,Wallack St.,544.0
+548,87,Wallack St.,545.0
+549,Rear of 87,Wallack St.,546.0
+550,Rear of 102,Wallack St.,547.0
+551,102,Wallack St.,548.0
+552,101,Wallack St.,549.0
+553,105½,Southside Ave.,550.0
+554,Rear of 113,Southside Ave.,551.0
+555,Next to 101,Wallack St.,552.0
+556,Rear of 113,Southside Ave.,553.0
+557,115,Wallack St.,554.0
+558,Alley off 92,Southside Ave.,555.0
+559,119,Wallack St.,556.0
+560,Adjoins 119,"Wallack St.
+Southside Ave.
+Alley",557.0
+561,14,"Wallack St.
+Southside Ave.
+Alley",557.0
+562,Rear of 121,"Wallack St.
+Southside Ave.
+Alley",557.0
+563,121-127,Southside Ave.,558.0
+564,Front of 92,Southside Ave.,559.0
+565,90,Southside Ave.,560.0
+566,113,Southside Ave.,561.0
+567,105,Southside Ave.,562.0
+568,103,Southside Ave.,563.0
+569,101,Southside Ave.,564.0
+570,89,Southside Ave.,565.0
+571,245,South French Broad Ave.,566.0
+572,239,South French Broad Ave.,567.0
+573,Rear of 233,South French Broad Ave.,568.0
+574,233,South Grove St.,569.0
+575,13,Dewitt St.,570.0
+576,244,South French Broad Ave.,571.0
+577,252,South French Broad Ave.,572.0
+578,25,Phifer St.,573.0
+579,31,Phifer St.,574.0
+580,251,South Grove St.,575.0
+581,247,South Grove St.,576.0
+582,245,South Grove St.,577.0
+583,239,South Grove St.,578.0
+584,Rear of 239,South Grove St.,579.0
+585,235,South Grove St.,580.0
+586,185,Southside Ave.,581.0
+587,185,Southside Ave.,582.0
+588,187,Southside Ave.,583.0
+589,203,Southside Ave.,584.0
+590,207,Southside Ave.,585.0
+591,211,Southside Ave.,586.0
+592,217-221,Southside Ave.,587.0
+593,Adjoins 219,Southside Ave.,588.0
+594,Adjoins 240,Southside Ave.,589.0
+595,240,Southside Ave.,590.0
+596,Next to 257,Southside Ave.,591.0
+597,257,Southside Ave.,592.0
+598,259,Southside Ave.,593.0
+599,273,Southside Ave.,594.0
+600,Next to 273,Southside Ave.,595.0
+601,Next to 279,Southside Ave.,596.0
+602,279,Southside Ave.,597.0
+603,17,McDowell St.,598.0
+604,186,Southside Ave.,599.0
+605,188-190,Southside Ave.,600.0
+606,Next to 190,Southside Ave.,601.0
+607,Next to 200,Southside Ave.,602.0
+608,Corner of,Southside Ave.,603.0
+609,39,McDowell St.,604.0
+610,98,Choctaw St.,605.0
+611,102,Choctaw St.,606.0
+612,71,McDowell St.,607.0
+613,41,McDowell St.,608.0
+614,45,McDowell St.,609.0
+615,Next to 43,McDowell St.,610.0
+616,99,Choctaw St.,611.0
+617,99½,"Choctaw St.
+&
+Southside Ave.",612.0
+618,101,"Choctaw St.
+&
+Southside Ave.",612.0
+619,103,"Choctaw St.
+&
+Southside Ave.",612.0
+620,&,"Choctaw St.
+&
+Southside Ave.",612.0
+621,242,"Choctaw St.
+&
+Southside Ave.",612.0
+622,99½,Choctaw St.,613.0
+623,Between 242-248,Southside Ave.,614.0
+624,248,Southside Ave.,615.0
+625,8-Jun,Congress St.,616.0
+626,10,Congress St.,617.0
+627,12,Congress St.,618.0
+628,NE Corner of,Congress St.,619.0
+629,Across from 9,Delaware Ave.,620.0
+630,Joins 37,Delaware Ave.,621.0
+631,18,Olive St.,622.0
+632,121,McDowell St.,623.0
+633,108,McDowell St.,624.0
+634,104,McDowell St.,625.0
+635,101,McDowell St.,626.0
+636,45,Pine Grove Ave.,627.0
+637,47,Pine Grove Ave.,628.0
+638,29,Olive St.,629.0
+639,33,Olive St.,630.0
+640,15,Olive St.,631.0
+641,9-9½,Olive St.,632.0
+642,53,Pine Grove Ave.,633.0
+643,57,Pine Grove Ave.,634.0
+644,Rear of 15,Pine Grove Ave.,635.0
+645,77,Pine Grove Ave.,636.0
+646,69,Livingston St.,637.0
+647,71,Livingston St.,638.0
+648,63,Livingston St.,639.0
+649,61,Livingston St.,640.0
+650,59,Livingston St.,641.0
+651,43,Livingston St.,642.0
+652,39,Livingston St.,643.0
+653,35,Livingston St.,644.0
+654,29,Livingston St.,645.0
+655,25,Livingston St.,646.0
+656,23,Livingston St.,647.0
+657,19,Livingston St.,648.0
+658,89,Victoria Rd.,649.0
+659,Corner of,"Victoria Rd.
+&
+McDowell St.",650.0
+660,Adjoins 160,McDowell St.,651.0
+661,160,McDowell St.,652.0
+662,-,-,653.0
+663,Adjoins 150,McDowell St.,654.0
+664,Next to 150,McDowell St.,655.0
+665,95,Livingston St.,656.0
+666,87,Livingston St.,657.0
+667,78,Pine Grove St.,658.0
+668,70,Pine Grove St.,659.0
+669,66,Pine Grove St.,660.0
+670,32,Congress St.,661.0
+671,34,Congress St.,662.0
+672,5,Myrtle St.,663.0
+673,46,Pine Grove St.,664.0
+674,20,Pine Grove St.,665.0
+675,5 to 9,Congress St.,666.0
+676,278,Southside Ave.,667.0
+677,280,Southside Ave.,668.0
+678,286,Southside Ave.,669.0
+679,16,Gaston St.,670.0
+680,40,Gaston St.,671.0
+681,44,Gaston St.,672.0
+682,52,Gaston St.,673.0
+683,54,Gaston St.,674.0
+684,66,Gaston St.,675.0
+685,Corner of,Livingston St.,676.0
+686,115,Livingston St.,677.0
+687,Corner of,Livingston St.,678.0
+688,77,Congress St.,679.0
+689,59,Congress St.,680.0
+690,55,Congress St.,681.0
+691,41,Congress St.,682.0
+692,25,Congress St.,683.0
+693,21,Congress St.,684.0
+694,17,Congress St.,685.0
+695,19,Congress St.,686.0
+696,15,Congress St.,687.0
+697,13,Congress St.,688.0
+698,292,Southside Ave.,689.0
+699,296,Southside Ave.,690.0
+700,300,Southside Ave.,691.0
+701,308,Southside Ave.,692.0
+702,312,Southside Ave.,693.0
+703,Joins 310 and 316,-,694.0
+704,17,Beech St.,695.0
+705,15,Herman St.,696.0
+706,17,Herman St.,697.0
+707,17,Herman St.,698.0
+708,19,Herman St.,699.0
+709,21,Herman St.,700.0
+710,25,Herman St.,701.0
+711,27,Herman St.,702.0
+712,31,Herman St.,703.0
+713,35,Herman St.,704.0
+714,37,Herman St.,705.0
+715,-,Gaston St.,706.0
+716,-,Gaston St.,707.0
+717,-,Gaston St.,708.0
+718,-,Gaston St.,709.0
+719,-,Gaston St.,710.0
+720,124,Louie St.,711.0
+721,108,Louie St.,712.0
+722,109,Louie St.,713.0
+723,96,Louie St.,714.0
+724,Joins 96,Louie St.,715.0
+725,62,Graham Pl.,716.0
+726,78,Louie St.,717.0
+727,74,Graham Pl.,718.0
+728,58,Graham Pl.,719.0
+729,48,Curve (Louie) St,720.0
+730,3,Graham Pl.,721.0
+731,5,Alley off Depot St.,722.0
+732,7,Graham Pl.,723.0
+733,Adjoins 58,Graham Pl.,724.0
+734,Adjoins 58,Graham Pl.,725.0
+735,Adjoins 58,Graham Pl.,726.0
+736,NW Corner of,Depot St.,727.0
+737,Corner of,Depot St.,728.0
+738,-,Depot St.,729.0
+739,10,Fair St.,730.0
+740,12,Fair St.,731.0
+741,16½,Palmer St,732.0
+742,16,Fair St.,733.0
+743,18,Fair St.,734.0
+744,17,Fair St.,735.0
+745,NS Corner of,Fair St.,736.0
+746,NS Corner of,Fair St.,737.0
+747,460-491,South French Broad Ave.,738.0
+748,28,Louie St.,739.0
+749,Across from 22,Palmer St.,740.0
+750,Across from 20,Palmer St.,741.0
+751,134,Livingston St.,742.0
+752,138,Livingston St.,743.0
+753,142,Livingston St.,744.0
+754,146,Livingston St.,745.0
+755,150,Livingston St.,746.0
+756,154,Livingston St.,747.0
+757,158,Livingston St.,748.0
+758,160,Livingston St.,749.0
+759,164,Livingston St.,750.0
+760,77,Black St.,751.0
+761,176,Livingston St.,752.0
+762,178,Livingston St.,753.0
+763,180,Livingston St.,754.0
+764,184,Livingston St.,755.0
+765,188,Livingston St.,756.0
+766,192,Livingston St.,757.0
+767,196,Livingston St.,758.0
+768,200,Livingston St.,759.0
+769,204,Livingston St.,760.0
+770,467,South French Broad Ave.,761.0
+771,468,South French Broad Ave.,762.0
+772,470,South French Broad Ave.,763.0
+773,474,South French Broad Ave.,764.0
+774,123,Black St.,765.0
+775,121,Black St.,766.0
+776,117,Black St.,767.0
+777,113,Black St.,768.0
+778,99,Black St.,769.0
+779,95,Black St.,770.0
+780,93,Black St.,771.0
+781,89,Black St.,772.0
+782,85,Black St.,773.0
+783,79,Black St.,774.0
+784,73,Black St.,775.0
+785,71,Black St.,776.0
+786,67,Black St.,777.0
+787,NS Corner of,Black St.,778.0
+788,17,Erskine Ave.,779.0
+789,52,Livingston St.,780.0
+790,64,Livingston St.,781.0
+791,92,Oakland Ave.,782.0
+792,68,Black St.,783.0
+793,16,Water St.,784.0
+794,20,Water St.,785.0
+795,78,Black St.,786.0
+796,80,Black St.,787.0
+797,86,Black St.,788.0
+798,88,Black St.,789.0
+799,92,Black St.,790.0
+800,100,Black St.,791.0
+801,1,Hibernia Rd.,792.0
+802,3,Hibernia Rd.,793.0
+803,13,Hibernia Rd.,794.0
+804,19,Hibernia Rd.,795.0
+805,25½,Water St.,796.0
+806,25,Crawford St.,797.0
+807,25,Water St.,798.0
+808,11,Water St.,799.0
+809,2,Crawford St.,800.0
+810,1,Crawford St.,801.0
+811,39,Hibernia Rd.,802.0
+812,106,Black St.,803.0
+813,110,Black St.,804.0
+814,112,Black St.,805.0
+815,114,Black St.,806.0
+816,145,Gervais St.,807.0
+817,113,Gervais St.,808.0
+818,116,Gervais St.,809.0
+819,24,Gervais St.,810.0
+820,416,Gervais St.,811.0
+821,12,Scott St.,812.0
+822,8,Scott St.,813.0
+823,2,Scott St.,814.0
+824,30,Erskine Ave.,815.0
+825,30,Hibernia Rd.,816.0
+826,10,Hibernia Rd.,817.0
+827,118,Black St.,818.0
+828,122,Black St.,819.0
+829,492,South French Broad Ave.,820.0
+830,498,South French Broad Ave.,821.0
+831,510,South French Broad Ave.,822.0
+832,514,South French Broad Ave.,823.0
+833,Rear of 20,Scott St.,824.0
+834,Joins 514,South French Broad Ave.,825.0
+835,518,South French Broad Ave.,826.0
+836,20,Scott St.,827.0
+837,27,Randall St.,828.0
+838,26,Palmer St.,829.0
+839,26,Palmer St.,830.0
+840,510,Depot St.,831.0
+841,55,Randall St.,832.0
+842,53,Randall St.,833.0
+843,49,Randall St.,834.0
+844,80,Scott St.,835.0
+845,Rear of 80,Scott St.,836.0
+846,84,Scott St.,837.0
+847,11,Fair St.,838.0
+848,82,Scott St.,839.0
+849,96,Scott St.,840.0
+850,31,Fair St.,841.0
+851,64,Walton St.,842.0
+852,33,Walton St.,843.0
+853,1,McDowell St.,844.0
+854,2,McDowell St.,845.0
+855,3,McDowell St.,846.0
+856,4,McDowell St.,847.0
+857,East side,McDowell St.,848.0
+858,East side of,McDowell St.,849.0
+859,7,McDowell St.,850.0
+860,East side of,McDowell St.,851.0
+861,20,McDowell St.,852.0
+862,32,McDowell St.,853.0
+863,Between 32 and 44,McDowell St.,854.0
+864,44,McDowell St.,855.0
+865,Adjoins 50,McDowell St.,856.0
+866,50,McDowell St.,857.0
+867,60½,Choctaw St.,858.0
+868,60,Choctaw St.,859.0
+869,58,Choctaw St.,860.0
+870,54,Choctaw St.,861.0
+871,236,Frederick St.,862.0
+872,Rear of 6,Short McDowell St.,863.0
+873,6,Short McDowell St.,864.0
+874,8,Short McDowell St.,865.0
+875,10,Short McDowell St.,866.0
+876,16,Short McDowell St.,867.0
+877,20,Short McDowwell St.,868.0
+878,24,Short McDowwell St.,869.0
+879,-,Short McDowwell St.,870.0
+880,-,Short McDowwell St.,871.0
+881,-,Short McDowwell St.,872.0
+882,-,Short McDowwell St.,873.0
+883,55,Choctaw St.,874.0
+884,SE corner of ,"McDowell St.
+Choctaw St.",875.0
+885,96,"McDowell St.
+",876.0
+886,98,McDowell St.,877.0
+887,100,McDowell St.,878.0
+888,104,McDowell St.,879.0
+889,Adjoins 104,McDowell St.,880.0
+890,112,McDowell St.,881.0
+891,Corner of,McDowell St.,882.0
+892,25,Brooklet St.,883.0
+893,45,Frederick St.,884.0
+894,39,Frederick St.,885.0
+895,37,Frederick St.,886.0
+896,21,Frederick St.,887.0
+897,21,Frederick St.,888.0
+898,19,Frederick St.,889.0
+899,17,Frederick St.,890.0
+900,Alley of 4,Frederick St.,891.0
+901,Alley of 3,Frederick St.,892.0
+902,9,John St.,893.0
+903,11,John St.,894.0
+904,15,John St.,895.0
+905,17,John St.,896.0
+906,19,John St.,897.0
+907,21,John St.,898.0
+908,53,John St.,899.0
+909,55,John St.,900.0
+910,57,John St.,901.0
+911,59,Ora St.,902.0
+912,29,Ora St.,903.0
+913,2,Ora St.,904.0
+914,18,Ora St.,905.0
+915,30,Ora St.,906.0
+916,56,Ora St.,907.0
+917,60,Ora St.,908.0
+918,64,Ora St.,909.0
+919,92,Ora St.,910.0
+920,118,Ora St.,911.0
+921,114,Ora St.,912.0
+922,5,Ralph St.,913.0
+923,369,Southside Ave.,914.0
+924,Next to 369,Southside Ave.,915.0
+925,Next to 343,Southside Ave.,916.0
+926,343,Southside Ave.,917.0
+927,391,South French Broad Ave.,918.0
+928,341,South French Broad Ave.,919.0
+929,337,South French Broad Ave.,920.0
+930,70,Bartlett St.,921.0
+931,368,South French Broad Ave.,922.0
+932,333,Southside Ave.,923.0
+933,335-337,Southside Ave.,924.0
+934,331,Southside Ave.,925.0
+935,329,Southside Ave.,926.0
+936,327,Southside Ave.,927.0
+937,311,Southside Ave.,928.0
+938,72,Adams St.,929.0
+939,50,Adams St.,930.0
+940,44,Adams St.,931.0
+941,190,Blanton St.,932.0
+942,186,Blanton St.,933.0
+943,327-335,Asheland Ave.,934.0
+944,153,Blanton St.,935.0
+945,NS of ,Smith St.,936.0
+946,171,Blanton St.,937.0
+947,,,
+948,170,Bartlett Street,
