@@ -1,0 +1,41 @@
+# SITE CONFIGURATION
+url: https://slides.rarebooklibrarian.com
+baseurl: /
+favicon: assets/favicon.ico
+title: 2021 AAAD Conference at JMU
+author :
+          first_name: Mark
+          middle_name: Edwin
+          last_name: Peterson
+          email : mpeter7@gmu.edu
+          github : rarebooklibrarian
+          twitter : mark_e_peterson
+
+
+reveal:
+  title: "Urban Renewal in Asheville"
+  transition: "slide" # none/fade/slide/convex/concave/zoom
+  theme: "black" # beige/blood/league/moon/night/serif/simple/sky/solarized/white
+  number: true
+  numberType: "c" # "h.v" / "h/v" / "c/t"
+
+# Slides
+collections:
+  slides:
+    output: true
+    permalink: /:collection/:name
+  basements:
+    output: true
+    permalink: /:collection/:name
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea"]
+
+
+
+theme: jekyll-theme-midnight
