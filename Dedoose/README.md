@@ -1,0 +1,3 @@
+# Dedoose
+
+This folder contains data files created using Dedoose for the Urban Renewal project.
