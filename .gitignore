@@ -114,6 +114,7 @@ html/credentials.inc.php
 !README.md
 
 python/data/*.csv
+python/db_output/*.csv
 python/Output/*.csv
 python/output/*.csv
 
