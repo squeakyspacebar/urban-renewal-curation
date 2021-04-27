@@ -98,17 +98,24 @@ ENV/
 # Rope project settings
 .ropeproject
 
-
 .DS_Store
+._.DS_Store
 .vagrant
+.babelrc
+.eslintrc
+.prettierignore
 playbook.retry
+vendor/
+node_modules/
+cache/
 
 GIS/parcels
 GIS/Asheville_map/new_Asheville_map3.tif*
 
-html/images/properties/*.tar.gz
-html/images/properties/*.jpg
-html/images/properties/*.png
+html/public/css/
+html/public/js/
+html/vendor/
+html/images/properties/
 html/credentials.inc.php
 
 !README.md
