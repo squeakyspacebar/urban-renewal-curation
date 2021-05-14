@@ -117,5 +117,9 @@ print_db_usage
 systemctl restart postgresql
 
 export PGPASSWORD=$APP_DB_PASS
-psql -U $APP_DB_USER -h localhost $APP_DB_NAME < /var/www/db_dump/db_dump_plain.sql
+psql -U $APP_DB_USER -h localhost $APP_DB_NAME < /var/www/db_dump/humanface_dev.sql
 echo "$APP_DB_NAME was successfully imported to the PostgreSQL."
+
+# Set up Nginx site configuration
+mv /tmp/nginx/sites-available/default /etc/nginx/sites-available/default
+systemctl restart nginx
